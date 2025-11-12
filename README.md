@@ -15,7 +15,6 @@ Sou apaixonado por tecnologia e desenvolvimento de software. Gosto de resolver p
   - 💻 **Análise e Desenvolvimento de Sistemas** – *Estácio de Sá – Ourinhos (Cursando)*  
   - 📊 **Ciência de Dados** – *FATEC Ourinhos (Trancado)*  
   - ⚙️ **Técnico em Eletrônica** – *ETEL (Concluído em 2019)*  
-  - 🏫 **Ensino Médio Completo** – *EE Professor Homero Calvoso*  
 - 📍 **Localização:** São Pedro do Turvo – SP, Brasil  
 - 📅 **Idade:** 23 anos  
 
