@@ -2,14 +2,17 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 23 * * *" # Roda todos os dias às 23h
-  workflow_dispatch: # Permite rodar manualmente
+    - cron: "0 23 * * *" # roda todo dia às 23h
+  workflow_dispatch: # permite rodar manualmente
 
 jobs:
   build:
     runs-on: ubuntu-latest
 
     steps:
+      - name: Clonar repositório
+        uses: actions/checkout@v4
+
       - name: Gerar gráfico da cobra
         uses: Platane/snk@v3
         with:
