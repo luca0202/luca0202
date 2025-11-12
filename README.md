@@ -4,10 +4,13 @@
 
 # 👋 Olá, seja bem-vindo(a) ao meu perfil 💻🎧🚀
 
+**Sobre mim:**  
+Sou apaixonado por tecnologia e desenvolvimento de software. Gosto de resolver problemas práticos com soluções confiáveis e eficientes, e estou sempre estudando novas ferramentas e linguagens.
+
 - 👨‍💻 **Nome:** Lucas Alexandre Tavares Massafera  
 - 🧠 **Áreas de atuação:** Desenvolvimento de Software, Controle de Acesso, APIs, Bancos de Dados  
 - 💼 **Cargo atual:** Desenvolvedor de Software na *Micromap – Soluções em Controle de Acesso* (2019 - atualmente)  
-- 🎯 **Objetivo:** Atuar em projetos desafiadores de desenvolvimento de software, aplicando minha experiência com Delphi, Python e bancos de dados relacionais. Busco sempre otimizar sistemas e aprender novas tecnologias para contribuir com o sucesso da equipe e da empresa.  
+- 🎯 **Objetivo:** Atuar em projetos desafiadores, aplicando minha experiência com Delphi, Python e bancos de dados relacionais.  
 - 🎓 **Formação:**
   - 💻 **Análise e Desenvolvimento de Sistemas** – *Estácio de Sá – Ourinhos (Cursando)*  
   - 📊 **Ciência de Dados** – *FATEC Ourinhos (Trancado)*  
@@ -52,12 +55,6 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luca0202&layout=compact&langs_count=7&theme=tokyonight"/>
   </a>
 </div>
-
----
-
-## 🐍 Gráfico de Contribuições
-
-![Snake animation](https://github.com/luca0202/luca0202/blob/main/dist/github-contribution-grid-snake.svg)
 
 ---
 
