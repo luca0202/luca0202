@@ -9,9 +9,10 @@
 - 💼 **Cargo atual:** Desenvolvedor de Software na *Micromap – Soluções em Controle de Acesso* (2019 - atualmente)  
 - 🎯 **Objetivo:** Atuar em projetos desafiadores de desenvolvimento de software, aplicando minha experiência com Delphi, Python e bancos de dados relacionais. Busco sempre otimizar sistemas e aprender novas tecnologias para contribuir com o sucesso da equipe e da empresa.  
 - 🎓 **Formação:**
-  - 📘 **Ciência de Dados** – FATEC Ourinhos  
-  - ⚙️ **Técnico em Eletrônica** – ETEL (2018/2019)  
-  - 🏫 **Ensino Médio Completo** – EE Professor Homero Calvoso  
+  - 💻 **Análise e Desenvolvimento de Sistemas** – *Estácio de Sá – Ourinhos (Cursando)*  
+  - 📊 **Ciência de Dados** – *FATEC Ourinhos (Trancado)*  
+  - ⚙️ **Técnico em Eletrônica** – *ETEL (Concluído em 2019)*  
+  - 🏫 **Ensino Médio Completo** – *EE Professor Homero Calvoso*  
 - 📍 **Localização:** São Pedro do Turvo – SP, Brasil  
 - 📅 **Idade:** 23 anos  
 
@@ -56,7 +57,7 @@
 
 ## 🐍 Gráfico de Contribuições
 
-![Snake animation](https://github.com/luca0202/luca0202/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/luca0202/luca0202/blob/main/dist/github-contribution-grid-snake.svg)
 
 ---
 
